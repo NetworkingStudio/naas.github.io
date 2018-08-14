@@ -1,4 +1,4 @@
-## Welcome to Network Studion Pages
+## Welcome to Network-Studio Pages
 
 You can use the [editor on GitHub](https://github.com/NetworkingStudio/naas.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
