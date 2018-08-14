@@ -1,4 +1,4 @@
-## Welcome to Networking-Studio Page
+## Welcome to Networking-Studio Pages
 Network Authentication Application System (NAAS), is to support network management, network administrators and software engineers community.  
 You can use the [editor on GitHub](https://github.com/NetworkingStudio/naas.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
