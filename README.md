@@ -1,6 +1,8 @@
 ## Welcome to Networkingstudio Pages
-An investigation into Kerberos 
-Software Name: Network Authentication Application System (NAAS) authentication protocol is to support network management, network administrators and software engineers community.
+An investigation into Kerberos:
+
+### Software Name: 
+Network Authentication Application System (NAAS) authentication protocol is to support network management, network administrators and software engineers community.
 
 ### Project Description
 An investigation into Kerberos. Where executing Kerberos as secure mechanism in user’s centralised cloud network security management, a network security using Kerberos authentication protocol for multiple user application, in a virtual environment. The authentication implementation is by introducing CentOS-7 version, with Open-LDAP, to supports security authentication which keeps all user account information in a single setting, a virtual software environment that support NFS-(autofs) for the distribution of data across the networks, with an auto-mount facility for users, automatically mounting filesystem directories, which is designed to address the modern way to mount directories over a network.
