@@ -17,13 +17,6 @@ A significant increase in network threats, and the increase in network security 
 ![how kerberos authentication works](https://user-images.githubusercontent.com/22172433/44359248-39c14680-a4af-11e8-89f3-97590c9049a8.PNG)
 
 
-
-### For more details:
-'''
-Please go to this link:
-http://www.networkingstudio.org 
-'''
-
 ### Contents
 
 #### CHAPTER 1: INTRODUCTION
@@ -48,3 +41,12 @@ Introduction
 
 #### CHAPTER 5: FUTURE WORK AND CONCLUSION
 INTRODUCTION
+
+'''
+### Request for the full documentation to the Project:
+'''
+### For more details:
+'''
+Please go to this link:
+http://www.networkingstudio.org 
+'''
