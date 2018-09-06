@@ -39,7 +39,7 @@ INTRODUCTION
 ### Request for the full documentation to the Project:
 ### For more details:
 Please go to this link:
-http://www.networkingstudio.org Email:edanieldickson@yahoo.ie
+http://www.networkingstudio.org
 
 
 ## Project 002:
