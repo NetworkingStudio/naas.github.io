@@ -40,3 +40,24 @@ INTRODUCTION
 ### For more details:
 Please go to this link:
 http://www.networkingstudio.org Email:edanieldickson@yahoo.ie
+
+
+## Project 002:
+### Arduino-wifi-
+Home heating system connecting Arduino Wi-Fi shield
+My aim is to offer a simple, cheap, and effective way home heating automation system works
+
+For more details: Please see this link: www.networkingstudio.org
+/* WiFi Web Server
+
+A simple web server that shows the value of the digital input pins. using a DHT11 sensor, WiFi shield and Arduino Uno.
+
+This example is written for a network using WPA encryption. For WEP or WPA, change the Wifi.begin() call accordingly.
+
+Circuit:
+
+WiFi shield attached
+Digital inputs attached to pins 2 Webpage: Home heating support system
+Modifyed: 24 April, 2017 by D. (Dan: Networking Studio) https://github.com/NetworkingStudio/Arduino-wifi-
+
+*/
